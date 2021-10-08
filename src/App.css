@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+
+
+.Navbar{
+ color: white;
+ display: flex;
+ flex-flow: row nowrap;
+ background-color: teal;
+ justify-content: space-around;
+
+}
